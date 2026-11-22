@@ -1,0 +1,10 @@
+node_modules/
+client/dist/
+server/data/
+server/.env
+server/uploads/*
+!server/uploads/seed-*.png
+*.log
+~$*.docx
+.claude/
+Report/
